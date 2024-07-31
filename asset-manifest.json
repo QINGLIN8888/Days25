@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/QINGLIN8888/Days25.git/static/css/main.f855e6bc.css",
-    "main.js": "/QINGLIN8888/Days25.git/static/js/main.3180c50f.js",
-    "static/js/453.f7afbbad.chunk.js": "/QINGLIN8888/Days25.git/static/js/453.f7afbbad.chunk.js",
-    "index.html": "/QINGLIN8888/Days25.git/index.html",
-    "main.f855e6bc.css.map": "/QINGLIN8888/Days25.git/static/css/main.f855e6bc.css.map",
-    "main.3180c50f.js.map": "/QINGLIN8888/Days25.git/static/js/main.3180c50f.js.map",
-    "453.f7afbbad.chunk.js.map": "/QINGLIN8888/Days25.git/static/js/453.f7afbbad.chunk.js.map"
+    "main.css": "/Days25/static/css/main.f855e6bc.css",
+    "main.js": "/Days25/static/js/main.77bf209c.js",
+    "static/js/453.f7afbbad.chunk.js": "/Days25/static/js/453.f7afbbad.chunk.js",
+    "index.html": "/Days25/index.html",
+    "main.f855e6bc.css.map": "/Days25/static/css/main.f855e6bc.css.map",
+    "main.77bf209c.js.map": "/Days25/static/js/main.77bf209c.js.map",
+    "453.f7afbbad.chunk.js.map": "/Days25/static/js/453.f7afbbad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3180c50f.js"
+    "static/js/main.77bf209c.js"
   ]
 }
